@@ -4,7 +4,5 @@
 
 Para rodar o projeto, digite o comando abaixo:
 ```
-npm install meu-projeto
+node app.js
 ```
-
-Foi criado o primeiro arquivo JS
