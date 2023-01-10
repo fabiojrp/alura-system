@@ -9,3 +9,4 @@ node app.js
 ```
 
 Agora temos um index.html
+E agora um css
